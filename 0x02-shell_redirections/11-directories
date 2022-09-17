@@ -1,6 +1,0 @@
-#!/bin/bash
-<<<<<<< HEAD
-find ./* -type d -print | wc -l
-=======
-find ./* -type d |wc -l 
->>>>>>> 16a88b565a6ff9d093b9ab76b1360b8eb593937a

@@ -1,6 +1,0 @@
-#!/bin/bash
-<<<<<<< HEAD
-echo "Best School" > '\*\\'\""Best School"\'\"\\*$\?\*\*\*\*\*:)'
-=======
-printf "Holberton School\n" > "\\*\\\\'\"Holberton School\"\'\\\\*$\\?\*\*\*\*\*:)"
->>>>>>> 16a88b565a6ff9d093b9ab76b1360b8eb593937a
